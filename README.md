@@ -25,14 +25,21 @@ class RachitBhatta:
         self.location = "Kathmandu, Nepal 🇳🇵"
         self.mission = "Building AI-powered systems that solve real problems"
         
-    def about_me(self):
+    def philosophy(self):
         return """
         16-year-old developer passionate about building impactful projects.
         I learn by DOING - theory follows practice, not vice versa.
-        Managing 5 technical domains while excelling in academics.
         
-        Philosophy: "Learning by building. Failing fast. Iterating faster."
+        Motto: "Learning by building. Failing fast. Iterating faster."
         """
+    
+    def current_focus(self):
+        return [
+            "Full-Stack Web Development",
+            "AI/ML Engineering",
+            "Creative Software Tools",
+            "Building Project Nexus"
+        ]
 ```
 
 ---
@@ -65,12 +72,49 @@ class RachitBhatta:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+### 🎨 Creative Tools
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+
 ### 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 Skill Levels
+
+<table>
+<tr>
+<td width="50%">
+
+### **💻 Full-Stack Development**
+```
+Front-End        ████████████████████░░░░░  85%
+Back-End         ████████████████░░░░░░░░░  65%
+API Design       ███████████████░░░░░░░░░░  60%
+Database         ██████████████░░░░░░░░░░░  55%
+```
+
+</td>
+<td width="50%">
+
+### **🤖 AI/ML & Creative**
+```
+Python/Data      ████████████████████░░░░░  80%
+ML Algorithms    ████████████████░░░░░░░░░  65%
+Deep Learning    ███████████░░░░░░░░░░░░░░  45%
+Creative Tools   ██████████░░░░░░░░░░░░░░░  40%
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,7 +132,7 @@ class RachitBhatta:
 
 ---
 
-## 🚀 Flagship Project: Nexus
+## 🚀 Featured Project: Nexus
 
 <table>
 <tr>
@@ -96,21 +140,22 @@ class RachitBhatta:
 
 ### 🎯 Overview
 
-**Nexus** is my flagship AI-powered web application showcasing full-stack development combined with intelligent features.
+**Nexus** is my flagship AI-powered web application showcasing full-stack development combined with intelligent features. Built to solve real-world problems with modern tech stack.
 
 ### ✨ Key Features
-- 🚀 **Next.js** - Optimal performance with SSR
-- ⚛️ **React** - Component-based architecture
-- 🤖 **AI/ML** - Smart functionality integration
-- 🔐 **Secure** - Authentication & API design
-- 📱 **Responsive** - All device compatibility
-- ⚡ **Real-time** - Live updates & interactions
+- 🚀 **Next.js SSR** - Blazing fast performance
+- ⚛️ **React Architecture** - Scalable component design
+- 🤖 **AI Integration** - Smart functionality
+- 🔐 **Secure APIs** - JWT authentication
+- 📱 **Responsive Design** - Mobile-first approach
+- ⚡ **Real-time Updates** - WebSocket integration
 
 ### 🛠️ Tech Stack
 ```yaml
 Frontend: Next.js, React, Tailwind CSS
 Backend:  Node.js, Express.js, REST APIs
 AI/ML:    Python, TensorFlow, NumPy
+Database: MongoDB, PostgreSQL
 Tools:    Git, VS Code, Figma
 ```
 
@@ -120,11 +165,11 @@ Tools:    Git, VS Code, Figma
 ### 📈 Development Progress
 
 ```
-Planning     ████████████ 100%
-Design       ████████████ 100%
-Development  ████████░░░░  80%
-Testing      ████░░░░░░░░  40%
-Deployment   ██░░░░░░░░░░  20%
+Planning        ████████████ 100%
+Design          ████████████ 100%
+Development     ████████░░░░  80%
+Testing         ████░░░░░░░░  40%
+Deployment      ██░░░░░░░░░░  20%
 ```
 
 ### 🎯 Current Status
@@ -137,7 +182,9 @@ Deployment   ██░░░░░░░░░░  20%
 ```
 
 ### 🔗 Links
-Coming Soon! 🚀
+- 🌐 **Live Demo:** Coming Soon
+- 💻 **GitHub:** Coming Soon
+- 📖 **Documentation:** In Progress
 
 </td>
 </tr>
@@ -152,25 +199,25 @@ Coming Soon! 🚀
 <td align="center" width="25%">
 
 ### ⚡ Fast Learner
-Rapidly absorbs and applies new concepts through hands-on projects
+Rapidly absorbs new technologies and applies them through hands-on projects
 
 </td>
 <td align="center" width="25%">
 
 ### 🚀 Project-First
-Builds real applications that solve actual problems, not toy projects
+Builds production-ready applications that solve real problems
 
 </td>
 <td align="center" width="25%">
 
 ### 🎯 Multi-Domain
-Balancing 5 technical domains simultaneously with academics
+Mastering Full-Stack, AI/ML, and Creative Tools simultaneously
 
 </td>
 <td align="center" width="25%">
 
 ### 💪 Self-Driven
-Managing 2-year roadmap independently with clear goals
+Managing ambitious 2-year roadmap with clear milestones
 
 </td>
 </tr>
@@ -178,115 +225,125 @@ Managing 2-year roadmap independently with clear goals
 
 ---
 
-## 🎓 Balancing Act
+## 🎯 Learning Path
 
-<table>
-<tr>
-<td width="50%">
-
-### 📚 Class 11 Academics
-
-**Subjects:**
-- 🔬 **Physics** - Mechanics, Thermodynamics
-- 🧪 **Chemistry** - Atomic Structure, Bonding
-- 📐 **Mathematics** - Calculus, Algebra
-
-**Approach:**
-- ✅ Active Recall
-- ✅ Spaced Repetition
-- ✅ Daily Practice
-
-**Performance:** `██████████████████████░░` **90%**
-
-</td>
-<td width="50%">
-
-### 💻 Technical Learning
-
-**Domains:**
-- 🌐 **Full-Stack Development**
-- 🤖 **AI/ML Engineering**
-- 🎮 **Unreal Engine**
-- 🎨 **Blender 3D**
-- 🎬 **DaVinci Resolve**
-
-**Method:**
-- ✅ Project-First Learning
-- ✅ Build Real Applications
-- ✅ Industry-Focused
-
-**Progress:** `████████████████░░░░░░░░` **64%**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Career Goals
-
-### 🎯 Short-Term (6-12 Months)
-- ✅ Complete **5+ production-ready** full-stack projects
-- ✅ Master **AI/ML** with deployed models
-- ✅ Build **impressive portfolio** website
-- ✅ Contribute to **open-source** projects
-- ✅ Develop **2 mobile applications**
-
-### 🚀 Long-Term (2 Years)
-- 🎯 **Full-Stack + AI/ML + Creative Tools** mastery
-- 🎯 Build **large-scale apps** with real users
-- 🎯 Excel in **Class 12** while growing technically
-- 🎯 **Top university** admission or **startup** opportunity
-- 🎯 **Industry-ready** for tech companies
-
----
-
-## 💡 Philosophy
-
+### **Current Focus (2024)**
 ```javascript
-const philosophy = {
-  motto: "Learning by building. Failing fast. Iterating faster.",
-  approach: "Project-First Learning",
-  mindset: "Always Be Building",
-  
-  dailyRoutine: {
-    morning: "Class 11 Academics + Active Recall",
-    afternoon: "Deep Work on Projects (4+ hours)",
-    evening: "Learning New Tech + Building",
-    night: "Creative Tools + Portfolio Work"
-  },
-  
-  belief: `I don't just learn technologies—I MASTER them through real projects.
-           Every line of code brings me closer to becoming a world-class engineer
-           who builds AI-powered systems that solve real problems.`
+const currentLearning = {
+  fullStack: ["Advanced React Patterns", "System Design", "Microservices"],
+  aiML: ["Deep Learning", "Neural Networks", "Model Deployment"],
+  creative: ["Unreal Engine Blueprints", "3D Modeling", "Video Editing"],
+  building: "Project Nexus - AI-Powered Web App"
 };
 ```
 
+### **2-Year Roadmap**
+
+**Phase 1: Foundation (Complete ✓)**
+- HTML, CSS, JavaScript fundamentals
+- React & Next.js mastery
+- Python & Data Science basics
+
+**Phase 2: Advanced Development (In Progress)**
+- Full-Stack architecture patterns
+- Database design & optimization
+- RESTful API best practices
+- AI/ML algorithms & implementation
+
+**Phase 3: Specialization (Upcoming)**
+- Deep Learning & Neural Networks
+- Cloud deployment (AWS/Azure)
+- Game Development (Unreal Engine)
+- 3D Design & Animation (Blender)
+
+**Phase 4: Production (Future)**
+- Large-scale applications
+- Open-source contributions
+- Industry-ready portfolio
+
 ---
 
-## 🏆 Achievements
+## 🎯 Goals & Objectives
+
+### 🎯 Short-Term (6-12 Months)
+- ✅ Complete **5+ production-ready** full-stack projects
+- ✅ Deploy **AI/ML models** to the cloud
+- ✅ Build **professional portfolio** website
+- ✅ Contribute to **open-source** projects
+- ✅ Master **System Design** fundamentals
+
+### 🚀 Long-Term (2 Years)
+- 🎯 Become **Full-Stack + AI/ML** expert
+- 🎯 Build apps with **10,000+ users**
+- 🎯 Master **Creative Software** tools
+- 🎯 Launch **personal SaaS** product
+- 🎯 Ready for **top tech companies** or **startup**
+
+---
+
+## 🏆 Achievements & Milestones
 
 | Achievement | Status | Description |
 |------------|--------|-------------|
-| 🎯 Project Nexus | `In Progress` | AI-powered web application |
-| 🚀 React Mastery | `✅ Complete` | Hooks, State, Components |
-| 💻 5+ Projects | `✅ Complete` | Full-stack applications |
-| 🤖 AI/ML Basics | `✅ Complete` | NumPy, Matplotlib, Python |
-| 📚 Academic Excellence | `✅ Ongoing` | Class 11 - 90%+ average |
-| ⚡ Multi-Domain | `✅ Active` | 5 domains simultaneously |
+| 🎯 Project Nexus | `In Progress` | AI-powered full-stack application |
+| 🚀 React Mastery | `✅ Complete` | Hooks, State Management, Advanced Patterns |
+| 💻 5+ Projects | `✅ Complete` | Production-ready applications |
+| 🤖 AI/ML Basics | `✅ Complete` | NumPy, Matplotlib, ML Fundamentals |
+| 🌐 Full-Stack | `In Progress` | Advanced backend & database skills |
+| ⚡ Multi-Domain | `✅ Active` | Learning 5 domains simultaneously |
+
+---
+
+## 💡 Development Philosophy
+
+```javascript
+const myApproach = {
+  motto: "Learning by building. Failing fast. Iterating faster.",
+  method: "Project-First Learning",
+  mindset: "Always Be Building",
+  
+  workflow: {
+    learn: "Study concepts and fundamentals",
+    build: "Apply immediately to real projects",
+    fail: "Encounter and solve real problems",
+    iterate: "Improve and optimize solutions",
+    ship: "Deploy and get user feedback"
+  },
+  
+  belief: `I don't just learn technologies—I MASTER them.
+           Every project teaches me something new.
+           Every bug makes me a better developer.
+           Every deployment gets me closer to my goals.`
+};
+
+console.log("Building the future, one commit at a time! 🚀");
+```
 
 ---
 
 ## 🔥 Current Status
 
 ```yaml
-🔭 Currently working on: Project Nexus - AI-powered web application
-🌱 Currently learning: Advanced AI/ML algorithms, System Design
-👯 Looking to collaborate on: Open-source projects, AI/ML applications
-💬 Ask me about: Full-Stack Development, Python, React, Next.js, AI/ML
-📫 How to reach me: rachit.bhatta@example.com
-⚡ Fun fact: Managing 5 technical domains + Class 11 academics at age 16!
+🔭 Working on: Project Nexus - AI-powered web application
+🌱 Learning: Deep Learning, System Design, Advanced React
+👯 Open to: Collaborating on innovative open-source projects
+💬 Ask me about: Full-Stack Development, React, Next.js, Python, AI/ML
+📫 Reach me: rachit.bhatta@example.com
+⚡ Fun fact: Building 5+ projects while mastering multiple tech domains at 16!
 ```
+
+---
+
+## 📈 Weekly Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitbhatta&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=FF6C37&point=FFFFFF" width="100%"/>
+
+</div>
 
 ---
 
@@ -315,4 +372,4 @@ const philosophy = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-</div>>
+</div>
