@@ -227,7 +227,7 @@ Managing ambitious 2-year roadmap with clear milestones
 
 ## 🎯 Learning Path
 
-### **Current Focus (2024)**
+### **Current Focus (2025)**
 ```javascript
 const currentLearning = {
   fullStack: ["Advanced React Patterns", "System Design", "Microservices"],
