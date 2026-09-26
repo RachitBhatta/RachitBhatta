@@ -2,15 +2,13 @@
 
 # Rachit Bhatta
 
-### Systems programmer. I build from the ground up — no shortcuts, no frameworks doing the thinking for me.
-
-`If I can't build it from scratch, I don't understand it yet.`
+Interested in low-level systems and building things from scratch — currently working on a game engine.
 
 <br>
 
-⚙️ Into **low-level systems** — memory, performance, how things actually work under the hood
-🎮 Building a **game engine** from scratch — because it's hard, resource-hungry, and forces real thinking
-🧠 I'd rather spend a week solving one hard problem than ship ten easy ones
+⚙️ Learning how things work under the hood — memory, performance, engines
+🎮 Building a game engine from scratch, step by step
+🧠 Prefer sitting with one hard problem over rushing through easy ones
 
 <br>
 
